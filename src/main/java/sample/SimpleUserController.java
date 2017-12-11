@@ -75,9 +75,6 @@ public class SimpleUserController {
     private MenuItem logOut;
 
     @FXML
-    private MenuItem mClose;
-
-    @FXML
     private ListView<String> questList;
 
     @FXML
@@ -105,7 +102,7 @@ public class SimpleUserController {
     private Button commentApply;
 
     @FXML
-    private ListView<String> informationList;
+    private TextArea informationArea;
 
 
     private void getDoctors(){
@@ -144,6 +141,7 @@ public class SimpleUserController {
             System.out.println(e.getMessage());
         }
     }
+
     private void getUserId(){
         try {
             Statement stmt = conn.createStatement();
@@ -162,11 +160,10 @@ public class SimpleUserController {
     private void updateInformation(){
         try {
             Statement stmt = conn.createStatement();
-            String sql = "SELECT information_text FROM information";
+            String sql = "SELECT information_text FROM information WHERE id=1";
             ResultSet rs = stmt.executeQuery(sql);
-            informationList.getItems().clear();
             while(rs.next()){
-                informationList.getItems().add(rs.getString("information_text"));
+                informationArea.setText(rs.getString("information_text"));
             }
             rs.close();
         } catch (SQLException e) {
@@ -204,7 +201,7 @@ public class SimpleUserController {
     private void updateQuestionList(){
         try {
             Statement stmt = conn.createStatement();
-            String sql = "SELECT question_text,answer_text FROM question LEFT JOIN answer ON question.id = answer.question_id";
+            String sql = "SELECT question_text,answer_text FROM question;";
             ResultSet rs = stmt.executeQuery(sql);
             questList.getItems().clear();
             while(rs.next()){
@@ -237,7 +234,7 @@ public class SimpleUserController {
     private void updateCommentsList(){
         try {
             Statement stmt = conn.createStatement();
-            String sql = "SELECT * FROM responses JOIN users ON responses.patient_id=users.id";
+            String sql = "SELECT * FROM comments JOIN users ON comments.patient_id=users.id";
             ResultSet rs = stmt.executeQuery(sql);
             commentList.getItems().clear();
             while(rs.next()){
@@ -255,7 +252,7 @@ public class SimpleUserController {
     private boolean insertComment(){
         try {
             Statement stmt = conn.createStatement();
-            String sql = "INSERT INTO responses(response, patient_id)" +
+            String sql = "INSERT INTO comments(response, patient_id)" +
                     " VALUES('"+
                     commentText.getText()+"',"+
                     user_id+");";

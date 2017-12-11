@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/6800ec0d-2393-43b5-864a-86fd87eb0a4d.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351/_metadata_/metadata_i.len" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data.db" afterPath="$PROJECT_DIR$/data.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/3b2d6b51-b832-4ec6-887b-e4da76081351.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/sample/AdministratorController.java" afterPath="$PROJECT_DIR$/src/main/java/sample/AdministratorController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/sample/LoginToSystem.java" afterPath="$PROJECT_DIR$/src/main/java/sample/LoginToSystem.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/sample/Registration.java" afterPath="$PROJECT_DIR$/src/main/java/sample/Registration.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/sample/SimpleUserController.java" afterPath="$PROJECT_DIR$/src/main/java/sample/SimpleUserController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/fxml/moderator.fxml" afterPath="$PROJECT_DIR$/src/main/resources/fxml/moderator.fxml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/fxml/register.fxml" afterPath="$PROJECT_DIR$/src/main/resources/fxml/register.fxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/fxml/simple_user.fxml" afterPath="$PROJECT_DIR$/src/main/resources/fxml/simple_user.fxml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
@@ -64,6 +53,42 @@
       </PATH_ELEMENT>
       <PATH_ELEMENT>
         <option name="myItemId" value="main" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="data.db" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="main" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="question" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="data.db" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="main" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="comments" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
@@ -115,43 +140,9 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
+            <state relative-caret-position="375">
               <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginToSystem.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/LoginToSystem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-555">
-              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1512994896035" expanded="true" signature="3409:3449" ph="SELECT id, f... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Registration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/sample/Registration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1520">
-              <caret line="100" column="17" lean-forward="true" selection-start-line="100" selection-start-column="17" selection-end-line="100" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1512935679099" expanded="true" signature="2088:2111" ph="SELECT login... users" />
-                <marker date="1512935679099" expanded="true" signature="2651:2746" ph="INSERT INTO users... " />
-                <marker date="1512935679099" expanded="true" signature="2651:2778" ph="INSERT INTO users... " />
-                <marker date="1512935679099" expanded="true" signature="2651:2779" ph="INSERT INTO users... " />
-                <marker date="1512935679099" expanded="true" signature="2651:2827" ph="INSERT INTO users... " />
-                <marker date="1512935679099" expanded="true" signature="2651:2875" ph="INSERT INTO users... " />
-                <marker date="1512935679099" expanded="true" signature="2651:2934" ph="INSERT INTO users... " />
-                <marker date="1512935679099" expanded="true" signature="2651:3153" ph="INSERT INTO users... " />
-                <marker date="1512935679099" expanded="true" signature="2651:3154" ph="INSERT INTO users... " />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -159,24 +150,29 @@
       <file leaf-file-name="SimpleUserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sample/SimpleUserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="352" column="59" lean-forward="true" selection-start-line="352" selection-start-column="59" selection-end-line="352" selection-end-column="59" />
+            <state relative-caret-position="415">
+              <caret line="215" column="9" lean-forward="false" selection-start-line="201" selection-start-column="8" selection-end-line="215" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#11250#11814#0" expanded="false" />
-                <marker date="1513003583336" expanded="true" signature="1878:1930" ph="SELECT id, d... doctors" />
-                <marker date="1513003583336" expanded="true" signature="2468:2487" ph="SELECT * FRO... users" />
-                <marker date="1513003583336" expanded="true" signature="2468:2501" ph="SELECT * FRO... users" />
-                <marker date="1513003583336" expanded="true" signature="2468:2511" ph="SELECT * FRO... users" />
-                <marker date="1513003583336" expanded="true" signature="3441:3484" ph="SELECT * FRO... users" />
-                <marker date="1513003583336" expanded="true" signature="3915:3944" ph="SELECT quest... question" />
-                <marker date="1513003583336" expanded="true" signature="3915:3955" ph="SELECT infor... information" />
-                <marker date="1513003583336" expanded="true" signature="4971:5255" ph="INSERT INTO pryjom_do_likara... " />
-                <marker date="1513003583336" expanded="true" signature="4971:5308" ph="INSERT INTO pryjom_do_likara... " />
-                <marker date="1513003583336" expanded="true" signature="5617:5716" ph="SELECT quest... question" />
-                <marker date="1513003583336" expanded="true" signature="6353:6515" ph="INSERT INTO question... " />
-                <marker date="1513003583336" expanded="true" signature="6824:6891" ph="SELECT * FRO... responses" />
-                <marker date="1513003583336" expanded="true" signature="7534:7692" ph="INSERT INTO responses... " />
+                <element signature="method#getDoctors#0;class#SimpleUserController#0" expanded="false" />
+                <element signature="method#getUser#0;class#SimpleUserController#0" expanded="false" />
+                <element signature="method#getUserId#0;class#SimpleUserController#0" expanded="false" />
+                <element signature="method#updateInformation#0;class#SimpleUserController#0" expanded="false" />
+                <element signature="method#insertReception#0;class#SimpleUserController#0" expanded="false" />
+                <element signature="e#11104#11668#0" expanded="false" />
+                <marker date="1513013531886" expanded="true" signature="1830:1882" ph="SELECT id, d... doctors" />
+                <marker date="1513013531886" expanded="true" signature="2420:2439" ph="SELECT * FRO... users" />
+                <marker date="1513013531886" expanded="true" signature="2420:2453" ph="SELECT * FRO... users" />
+                <marker date="1513013531886" expanded="true" signature="2420:2463" ph="SELECT * FRO... users" />
+                <marker date="1513013531886" expanded="true" signature="3394:3437" ph="SELECT * FRO... users" />
+                <marker date="1513013531886" expanded="true" signature="3868:3919" ph="SELECT infor... information" />
+                <marker date="1513013531886" expanded="true" signature="4880:5164" ph="INSERT INTO pryjom_do_likara... " />
+                <marker date="1513013531886" expanded="true" signature="4880:5217" ph="INSERT INTO pryjom_do_likara... " />
+                <marker date="1513013531886" expanded="true" signature="5526:5572" ph="SELECT quest... question" />
+                <marker date="1513013531886" expanded="true" signature="6210:6372" ph="INSERT INTO question... " />
+                <marker date="1513013531886" expanded="true" signature="6221:6372" ph="INSERT INTO question... " />
+                <marker date="1513013531886" expanded="true" signature="6681:6746" ph="SELECT * FRO... responses" />
+                <marker date="1513013531886" expanded="true" signature="7389:7546" ph="INSERT INTO responses... " />
               </folding>
             </state>
           </provider>
@@ -185,11 +181,55 @@
       <file leaf-file-name="AdministratorController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sample/AdministratorController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="-2679">
+              <caret line="170" column="52" lean-forward="false" selection-start-line="170" selection-start-column="52" selection-end-line="170" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#422#986#0" expanded="false" />
+                <element signature="e#9794#10358#0" expanded="false" />
+                <marker date="1513014058247" expanded="true" signature="1537:1588" ph="SELECT infor... information" />
+                <marker date="1513014058247" expanded="true" signature="2022:2132" ph="UPDATE infor... " />
+                <marker date="1513014058247" expanded="true" signature="2022:2133" ph="UPDATE infor... " />
+                <marker date="1513014058247" expanded="true" signature="2028:2117" ph="INSERT INTO information... " />
+                <marker date="1513014058247" expanded="true" signature="2028:2132" ph="INSERT INTO information... " />
+                <marker date="1513014058247" expanded="true" signature="2438:2633" ph="SELECT infor... pryjom_do_likara" />
+                <marker date="1513014058247" expanded="true" signature="2438:2675" ph="SELECT pryjo... pryjom_do_likara" />
+                <marker date="1513014058247" expanded="true" signature="2438:2709" ph="SELECT pryjo... pryjom_do_likara" />
+                <marker date="1513014058247" expanded="true" signature="2438:2716" ph="SELECT pryjo... pryjom_do_likara" />
+                <marker date="1513014058247" expanded="true" signature="2438:2756" ph="SELECT pryjo... pryjom_do_likara" />
+                <marker date="1513014058247" expanded="true" signature="3448:3486" ph="DELETE FROM " />
+                <marker date="1513014058247" expanded="true" signature="3820:3870" ph="SELECT id, q... question" />
+                <marker date="1513014058247" expanded="true" signature="4541:4574" ph="UPDATE quest... " />
+                <marker date="1513014058247" expanded="true" signature="4541:4630" ph="UPDATE quest... " />
+                <marker date="1513014058247" expanded="true" signature="4961:5141" ph="SELECT comme... comments" />
+                <marker date="1513014058247" expanded="true" signature="5820:5850" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.users" pinned="false" current-in-tab="true">
+        <entry file="dbDummy://dbtable:/7347c6d8/3b2d6b51-b832-4ec6-887b-e4da76081351/main.users">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginToSystem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sample/LoginToSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1512994896035" expanded="true" signature="3409:3449" ph="SELECT id, f... " />
               </folding>
             </state>
           </provider>
@@ -246,8 +286,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/sample/Registration.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/LoginToSystem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sample/AdministratorController.java" />
         <option value="$PROJECT_DIR$/src/main/java/sample/SimpleUserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sample/AdministratorController.java" />
       </list>
     </option>
   </component>
@@ -881,15 +921,16 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1512894049265" duration="7299000" />
       <workItem from="1512916762602" duration="19933000" />
-      <workItem from="1512984711901" duration="16374000" />
+      <workItem from="1512984711901" duration="25953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44908000" />
+    <option name="totallyTimeSpent" value="54487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1920" height="1054" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -901,13 +942,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33115467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33115467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2171123" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2026738" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14545454" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -938,7 +979,9 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -988,7 +1031,7 @@
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#422#986#0" expanded="false" />
+            <element signature="e#9794#10358#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1032,7 +1075,7 @@
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#422#986#0" expanded="false" />
+            <element signature="e#9794#10358#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1082,17 +1125,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/moderator.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-479">
-          <caret line="10" column="171" lean-forward="false" selection-start-line="10" selection-start-column="171" selection-end-line="10" selection-end-column="171" />
           <folding />
         </state>
       </provider>
@@ -1175,40 +1207,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/7347c6d8/3b2d6b51-b832-4ec6-887b-e4da76081351/main.information">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/7347c6d8/3b2d6b51-b832-4ec6-887b-e4da76081351/main.users">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/Registration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1520">
@@ -1228,49 +1226,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/SimpleUserController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/moderator.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="352" column="59" lean-forward="true" selection-start-line="352" selection-start-column="59" selection-end-line="352" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#11250#11814#0" expanded="false" />
-            <marker date="1513003583336" expanded="true" signature="1878:1930" ph="SELECT id, d... doctors" />
-            <marker date="1513003583336" expanded="true" signature="2468:2487" ph="SELECT * FRO... users" />
-            <marker date="1513003583336" expanded="true" signature="2468:2501" ph="SELECT * FRO... users" />
-            <marker date="1513003583336" expanded="true" signature="2468:2511" ph="SELECT * FRO... users" />
-            <marker date="1513003583336" expanded="true" signature="3441:3484" ph="SELECT * FRO... users" />
-            <marker date="1513003583336" expanded="true" signature="3915:3944" ph="SELECT quest... question" />
-            <marker date="1513003583336" expanded="true" signature="3915:3955" ph="SELECT infor... information" />
-            <marker date="1513003583336" expanded="true" signature="4971:5255" ph="INSERT INTO pryjom_do_likara... " />
-            <marker date="1513003583336" expanded="true" signature="4971:5308" ph="INSERT INTO pryjom_do_likara... " />
-            <marker date="1513003583336" expanded="true" signature="5617:5716" ph="SELECT quest... question" />
-            <marker date="1513003583336" expanded="true" signature="6353:6515" ph="INSERT INTO question... " />
-            <marker date="1513003583336" expanded="true" signature="6824:6891" ph="SELECT * FRO... responses" />
-            <marker date="1513003583336" expanded="true" signature="7534:7692" ph="INSERT INTO responses... " />
-          </folding>
+        <state relative-caret-position="-193">
+          <caret line="10" column="171" lean-forward="false" selection-start-line="10" selection-start-column="171" selection-end-line="10" selection-end-column="171" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sample/AdministratorController.java">
+    <entry file="dbDummy://dbtable:/7347c6d8/3b2d6b51-b832-4ec6-887b-e4da76081351/main.information">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/SimpleUserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="415">
+          <caret line="215" column="9" lean-forward="false" selection-start-line="201" selection-start-column="8" selection-end-line="215" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#422#986#0" expanded="false" />
+            <element signature="method#getDoctors#0;class#SimpleUserController#0" expanded="false" />
+            <element signature="method#getUser#0;class#SimpleUserController#0" expanded="false" />
+            <element signature="method#getUserId#0;class#SimpleUserController#0" expanded="false" />
+            <element signature="method#updateInformation#0;class#SimpleUserController#0" expanded="false" />
+            <element signature="method#insertReception#0;class#SimpleUserController#0" expanded="false" />
+            <element signature="e#11104#11668#0" expanded="false" />
+            <marker date="1513013531886" expanded="true" signature="1830:1882" ph="SELECT id, d... doctors" />
+            <marker date="1513013531886" expanded="true" signature="2420:2439" ph="SELECT * FRO... users" />
+            <marker date="1513013531886" expanded="true" signature="2420:2453" ph="SELECT * FRO... users" />
+            <marker date="1513013531886" expanded="true" signature="2420:2463" ph="SELECT * FRO... users" />
+            <marker date="1513013531886" expanded="true" signature="3394:3437" ph="SELECT * FRO... users" />
+            <marker date="1513013531886" expanded="true" signature="3868:3919" ph="SELECT infor... information" />
+            <marker date="1513013531886" expanded="true" signature="4880:5164" ph="INSERT INTO pryjom_do_likara... " />
+            <marker date="1513013531886" expanded="true" signature="4880:5217" ph="INSERT INTO pryjom_do_likara... " />
+            <marker date="1513013531886" expanded="true" signature="5526:5572" ph="SELECT quest... question" />
+            <marker date="1513013531886" expanded="true" signature="6210:6372" ph="INSERT INTO question... " />
+            <marker date="1513013531886" expanded="true" signature="6221:6372" ph="INSERT INTO question... " />
+            <marker date="1513013531886" expanded="true" signature="6681:6746" ph="SELECT * FRO... responses" />
+            <marker date="1513013531886" expanded="true" signature="7389:7546" ph="INSERT INTO responses... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sample/LoginToSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-555">
+        <state relative-caret-position="185">
           <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1512994896035" expanded="true" signature="3409:3449" ph="SELECT id, f... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sample/AdministratorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2679">
+          <caret line="170" column="52" lean-forward="false" selection-start-line="170" selection-start-column="52" selection-end-line="170" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9794#10358#0" expanded="false" />
+            <marker date="1513014058247" expanded="true" signature="1537:1588" ph="SELECT infor... information" />
+            <marker date="1513014058247" expanded="true" signature="2022:2132" ph="UPDATE infor... " />
+            <marker date="1513014058247" expanded="true" signature="2022:2133" ph="UPDATE infor... " />
+            <marker date="1513014058247" expanded="true" signature="2028:2117" ph="INSERT INTO information... " />
+            <marker date="1513014058247" expanded="true" signature="2028:2132" ph="INSERT INTO information... " />
+            <marker date="1513014058247" expanded="true" signature="2438:2633" ph="SELECT infor... pryjom_do_likara" />
+            <marker date="1513014058247" expanded="true" signature="2438:2675" ph="SELECT pryjo... pryjom_do_likara" />
+            <marker date="1513014058247" expanded="true" signature="2438:2709" ph="SELECT pryjo... pryjom_do_likara" />
+            <marker date="1513014058247" expanded="true" signature="2438:2716" ph="SELECT pryjo... pryjom_do_likara" />
+            <marker date="1513014058247" expanded="true" signature="2438:2756" ph="SELECT pryjo... pryjom_do_likara" />
+            <marker date="1513014058247" expanded="true" signature="3448:3486" ph="DELETE FROM " />
+            <marker date="1513014058247" expanded="true" signature="3820:3870" ph="SELECT id, q... question" />
+            <marker date="1513014058247" expanded="true" signature="4541:4574" ph="UPDATE quest... " />
+            <marker date="1513014058247" expanded="true" signature="4541:4630" ph="UPDATE quest... " />
+            <marker date="1513014058247" expanded="true" signature="4961:5141" ph="SELECT comme... comments" />
+            <marker date="1513014058247" expanded="true" signature="5820:5850" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/7347c6d8/3b2d6b51-b832-4ec6-887b-e4da76081351/main.users">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
