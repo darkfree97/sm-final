@@ -52,14 +52,15 @@ public class LoginToSystem {
                     stage.initStyle(StageStyle.DECORATED);
                     FXMLLoader autoriseLoader;
                     if (checkRes.get(2)){
-                        stage.setTitle("Administrator");
-                        autoriseLoader = new FXMLLoader(getClass().getResource("/fxml/administrator.fxml"));
+                        stage.setTitle("Приватна поліклініка | Режим модератора");
+                        autoriseLoader = new FXMLLoader(getClass().getResource("/fxml/moderator.fxml"));
                     }
                     else {
-                        stage.setTitle("Simple User");
+                        stage.setTitle("Приватна поліклініка | Користувацький режим");
                         autoriseLoader = new FXMLLoader(getClass().getResource("/fxml/simple_user.fxml"));
                     }
                     Parent root = autoriseLoader.load();
+                    stage.setUserData(login.getText());
                     stage.setScene(new Scene(root));
                     stage.showAndWait();
                 } catch (IOException e) {

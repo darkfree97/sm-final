@@ -115,7 +115,6 @@ public class Registration {
                     login.getText()+"','"+
                     password.getText()+"');";
             stmt.executeUpdate(sql);
-
             return true;
         } catch (SQLException e) {
             e.printStackTrace();
